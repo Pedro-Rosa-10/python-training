@@ -5,5 +5,5 @@ Course study training for Fred Baptiste's Udemy Python Fundamentals course
 * Repo: [GitHub - fbaptiste/python-fundamentals](https://github.com/fbaptiste/python-fundamentals)
 
 ## Folders
-* Exercises: clone from the original repo, containing owner's solutions;
-* Practice: my own solutions for the past exercise sections of the course;
+* **Exercises**: clone from the original repo, containing owner's solutions;
+* **Practice**: my own solutions for the past exercise sections of the course;
